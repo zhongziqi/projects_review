@@ -1,0 +1,15 @@
+### 回顾过去的一年，总结所做项目的得与失，纪念曾经伤害过自己的坑，让自己成长的更快，更野蛮
+## pc项目
+1. [小鹿乱撞](http://mobile.crazydeertv.com)
+2. [华润置地官网](http://www.runworld.com.cn)
+3. [蛋壳科技官网](http://www.dankal.cn)
+4. [定了么后台管理系统](http://spdlm.dankal.cn)
+## h5项目(移动端的项目基本上都是在微信平台上完成的，所以可能会看不了效果)
+1. [小鹿乱撞](http://www.crazydeertv.com)
+2. 投票系统(忘记这个项目的线上地址了)
+3. 燕欲窝(http://mobile.yanyuwo.com.cn)
+4. 冷链()
+5. 教育平台(http://edu.dankal.cn)
+## 小程序项目(这个要在微信小程序里面搜索来看)
+1. 快乐辞典
+2. 冷链
